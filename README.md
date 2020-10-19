@@ -8,4 +8,6 @@
 
 [Введение в базы данных](https://stepik.org/course/551/syllabus)
 
-<img src="https://stepik.org/certificate/fa15257daf69ae98e08e3b09e9db5026cf69022b.png"/>
+<img src="https://stepik.org/certificate/fa15257daf69ae98e08e3b09e9db5026cf69022b.png" width = 70%>
+
+<img src="https://stepik.org/certificate/0b8d564464d289816b9f48350e8384147a42b5e3.png" width = 70%>
